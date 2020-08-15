@@ -31,20 +31,15 @@ https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3
 
 ### Languages
 
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
-
-
-[<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png />]
-
-
-[<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />]
+[<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
+[<img align="left" alt="R" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png />] 
+[<img align="left" alt="Bash" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />]
 
 
 
 ### Contact
-[<img align="left" alt="lukemshepherd | Reserchgate" width="22px" src="https://simpleicons.org/icons/researchgate.svg" />][Reserchgate]
-
-[<img align="left" alt="lmortshepherd | twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg" />][Twitter]
+[<img align="left" alt="lukemshepherd | Reserchgate" width="26px" src="https://simpleicons.org/icons/researchgate.svg" />][Reserchgate]
+[<img align="left" alt="lmortshepherd | twitter" width="26px" src="https://simpleicons.org/icons/twitter.svg" />][Twitter]
 
 
 
