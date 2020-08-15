@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### Languages
 
 ### Reserach:
+[<img align="left" alt="lukemshepherd | Reserchgate" width="22px" src="https://svgshare.com/i/9pP.svg" />][Reserchgate]
 
-![Reserchgate](https://svgshare.com/i/9pP.svg)
 
 https://www.researchgate.net/profile/Luke_Shepherd3
