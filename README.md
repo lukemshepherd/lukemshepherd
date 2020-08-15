@@ -23,4 +23,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="lukemshepherd | Reserchgate" width="22px" src="https://svgshare.com/i/9pP.svg" />][Reserchgate]
 
 
-https://www.researchgate.net/profile/Luke_Shepherd3
+
+
+[Reserchgate]: https://www.researchgate.net/profile/Luke_Shepherd3
