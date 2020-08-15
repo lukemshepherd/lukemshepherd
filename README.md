@@ -2,7 +2,6 @@
 
 I'm a UCL student mainly working on medical imagery and neural networks
 
-- 🌱 I’m currently learning ...
 <!--
 **lukemshepherd/lukemshepherd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 ### Languages
 
-### Contact
+### Reserach:
+
+![https://svgshare.com/i/9pP.svg]
+
+https://www.researchgate.net/profile/Luke_Shepherd3
