@@ -2,11 +2,12 @@
 
 I'm a UCL student mainly working on medical imagery and neural networks
 
+- 🔭 I’m currently working on ... MICCAI CATARACTS Semantic Segmentation challenge
+
 <!-- - 🌱 I’m currently learning ... Everything, but speficialy 
  -->
 
 <!-- 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
 
@@ -24,18 +25,26 @@ https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3
 
 
 ### Languages
+<!--python -->
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<!--R -->
 <img align="left" alt="R" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
-<img align="left" alt="Bash" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
+<!--JavaScript -->
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<!--Bash -->
+<img align="left" alt="Bash" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
+<!--HTML -->
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<!--CSS -->
 <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<!--Latex -->
 <img align="left" alt="latex" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />
 
 <br />
 <br />
 
 ### Deep learning
+<!--Pytorch -->
 <img align="left" alt="pytorch" width="100" src="https://github.com/pytorch/pytorch/blob/master/docs/source/_static/img/pytorch-logo-dark.png" />
 
 <!-- 
@@ -44,6 +53,7 @@ https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> -->
 <br />
 <br />
+
 
 ### Contact
 [<img align="left" alt="lukemshepherd | Reserchgate" width="26px" src="https://simpleicons.org/icons/researchgate.svg" />][Reserchgate]
