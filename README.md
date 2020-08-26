@@ -2,6 +2,9 @@
 
 I'm a UCL student mainly working on medical imagery and neural networks
 
+<br />
+<br />
+
 - 🔭 I’m currently working on ... MICCAI CATARACTS Semantic Segmentation challenge
 
 <!-- - 🌱 I’m currently learning ... Everything, but speficialy 
@@ -22,6 +25,10 @@ https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
+
+<br />
+<br />
+
 
 
 ### Languages
