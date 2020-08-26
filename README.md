@@ -6,24 +6,16 @@ I'm a UCL student mainly working on medical imagery and neural networks
 - 🔭 I’m currently working on ... MICCAI CATARACTS Semantic Segmentation challenge
 
 <!-- - 🌱 I’m currently learning ... Everything, but speficialy 
- -->
-
-<!-- 
-- 🌱 I’m currently learning ...
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
 
 https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png
-
-https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png
-
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-
+- ⚡ Fun fact: ... 
+-->
 <br />
 
 ### Languages
