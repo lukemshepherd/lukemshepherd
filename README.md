@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 I'm a UCL student mainly working on medical imagery and neural networks
-
-<br />
 <br />
 
 - 🔭 I’m currently working on ... MICCAI CATARACTS Semantic Segmentation challenge
