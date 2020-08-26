@@ -36,15 +36,16 @@ https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> -->
-
+http://simpleicons.org/icons/gmail.svg
 <br />
 <br />
 
 ### Contact
 [<img align="left" alt="lukemshepherd | Reserchgate" width="26px" src="https://simpleicons.org/icons/researchgate.svg" />][Reserchgate]
 [<img align="left" alt="lmortshepherd | twitter" width="26px" src="https://simpleicons.org/icons/twitter.svg" />][Twitter]
-
+[<img align="left" alt="l.m.shepherd@outlook.com | email" width="26px" src="http://simpleicons.org/icons/gmail.svg" />][Email]
 
 
 [Reserchgate]: https://www.researchgate.net/profile/Luke_Shepherd3
 [Twitter]: https://twitter.com/lmortshepherd
+[Email]: mailto:l.m.shepherd@outlook.com
