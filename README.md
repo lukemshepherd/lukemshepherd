@@ -3,7 +3,7 @@
 I'm a UCL student mainly working on medical imagery and neural networks
 <br />
 
-- 🔭 I’m currently working on ... MICCAI CATARACTS Semantic Segmentation challenge
+- 🔭 I’m currently working on ... An auto updating set of covid graphs
 
 <!-- - 🌱 I’m currently learning ... Everything, but speficialy 
 
