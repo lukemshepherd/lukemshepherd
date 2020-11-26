@@ -3,12 +3,12 @@
 I'm a UCL student mainly working on medical imagery and neural networks
 <br />
 
-- 🔭 I’m currently working on ... An auto updating set of covid graphs
+- 🔭 I’m currently working on ... Lot and lots of COVID graphs and a new TTTS prodject
 
-<!-- - 🌱 I’m currently learning ... Everything, but speficialy 
+- 🌱 I’m currently learning ... Everything, but speficialy game theory and coffee 
 
 https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png
-
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -51,10 +51,10 @@ https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3
 
 ### Contact
 [<img align="left" alt="lukemshepherd | Reserchgate" width="26px" src="https://simpleicons.org/icons/researchgate.svg" />][Reserchgate]
-[<img align="left" alt="lmortshepherd | twitter" width="26px" src="https://simpleicons.org/icons/twitter.svg" />][Twitter]
+[<img align="left" alt="lukemshepherd | twitter" width="26px" src="https://simpleicons.org/icons/twitter.svg" />][Twitter]
 [<img align="left" alt="l.m.shepherd@outlook.com | email" width="26px" src="http://simpleicons.org/icons/gmail.svg" />][Email]
 
 
 [Reserchgate]: https://www.researchgate.net/profile/Luke_Shepherd3
-[Twitter]: https://twitter.com/lmortshepherd
+[Twitter]: https://twitter.com/lukemshepherd
 [Email]: mailto:l.m.shepherd@outlook.com
